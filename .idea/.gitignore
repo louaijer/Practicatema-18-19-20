@@ -1,0 +1,10 @@
+*.log
+*.class
+*.zip
+*.jar
+*.env
+#intellJ file
+.idea/
+*.iml
+#macOS
+.DS_Store
